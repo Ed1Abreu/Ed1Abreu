@@ -1,9 +1,5 @@
 Olá || Bem-vindo! 👋
 
-
-**Ed1Abreu/Ed1Abreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🖥️ Acadêmico de Ciência da Computação
 - 🔭 Estudando atualmente HTML e CSS...
  
