@@ -1,4 +1,4 @@
-<strong>Olá || Bem-vindo!</strong> 👋
+<strong><em>Olá || Bem-vindo!</em></strong> 👋
 
 - 🖥️ Acadêmico de Ciência da Computação
 - 🔭 Estudando atualmente HTML e CSS...
