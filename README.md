@@ -22,4 +22,5 @@ Olá || Bem-vindo! 👋
 <div>  
   <a href="https://www.linkedin.com/in/edvanderson-silva-braga-de-abreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:edvandersonabreu46@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Discord: Ed ツ%238192-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
  </div>  
