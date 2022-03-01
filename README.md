@@ -2,7 +2,7 @@
 <strong><em>Olá || Bem-vindo!</em></strong> 👋
 
 - 🖥️ Acadêmico de Ciência da Computação
-- 🔭 Estudando um pouqunho de tudo...
+- 🔭 Estudando um pouco de tudo...
  
 <div align= center>
   <a href="https://github.com/Ed1Abreu">
