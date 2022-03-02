@@ -1,7 +1,7 @@
 <strong><em>Olá || Bem-vindo!</em></strong> 👋
 
 - 🖥️ Acadêmico de Ciência da Computação
-- 🔭 Estudando um pouco de tudo...
+- 🔭 Estudando Front-End
  
  <div align= center>
   <a href="https://github.com/Ed1Abreu">
