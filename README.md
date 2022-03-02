@@ -1,6 +1,6 @@
 <strong><em>Olá || Bem-vindo!</em></strong> 👋
 
-- 🖥️ Estudande de Ciência da Computação
+- 🖥️ Estudante de Ciência da Computação
 - 🔭 Focado no desenvolvimento Front-End.
  
  <div align= center>
