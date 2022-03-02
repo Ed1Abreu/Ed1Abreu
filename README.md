@@ -3,20 +3,20 @@
 - 🖥️ Acadêmico de Ciência da Computação
 - 🔭 Estudando um pouco de tudo...
  
-<div align= center>
+ <div align= center>
   <a href="https://github.com/Ed1Abreu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed1Abreu&layout=compact&langs_count=7&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ed1Abreu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</div>
+ </div>
 
- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Ed-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Ed-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Ed-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Ed-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Ed-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Ed-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
+ </div>
   
   ##
   
