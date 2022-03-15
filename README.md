@@ -1,7 +1,7 @@
 <strong><em>Olá || Bem-vindo!</em></strong> 👋
 
 - 🖥️ Estudante de Ciência da Computação
-- 🔭 Focado no desenvolvimento Front-End.
+- 🔭 Focado no desenvolvimento Full-Stack.
  
  <div align= center>
   <a href="https://github.com/Ed1Abreu">
