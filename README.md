@@ -1,4 +1,4 @@
-# Olá, eu sou Edvanderson Abreu!👋
+# Olá, eu sou Edvanderson Abreu!
 
 
 - 🖥️ Estudante de Ciência da Computação
