@@ -2,7 +2,7 @@
 
 
 - 🖥️ Estudante de Ciência da Computação
-- 🔭 Focado no desenvolvimento Full-Stack.
+- 🔭 Focado no desenvolvimento Front-End
  
  <div align= center>
   <a href="https://github.com/Ed1Abreu">
