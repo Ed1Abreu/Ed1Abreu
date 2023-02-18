@@ -4,11 +4,11 @@
 - 🖥️ Estudante de Ciência da Computação
 - 🔭 Focado no desenvolvimento Front-End
  
-<div align= center>
+<!-- <div align= center>
   <a href="https://github.com/seu-usuário-aqui">
   <img height="180em" src="https://github-readme-stats-ed1-abreu.vercel.app/api/top-langs/?username=Ed1Abreu&layout=compact&langs_count=7&theme=react"/>
   <img height="180em" src="https://github-readme-stats-ed1-abreu.vercel.app/api?username=Ed1Abreu&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
 
 <div style="display: inline_block"><br>
    <h2>Ferramentas | Linguagens</h2>
