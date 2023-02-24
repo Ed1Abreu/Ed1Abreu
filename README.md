@@ -11,7 +11,7 @@
 </div> 
 
 <div style="display: inline_block"><br>
-   <h2>Ferramentas | Linguagens</h2>
+   <h2>Ferramentas && Linguagens</h2>
    <img align="center" alt="Ed-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
    <img align="center" alt="Ed-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
    <img align="center" alt="Ed-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
