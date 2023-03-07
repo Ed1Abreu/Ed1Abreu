@@ -6,7 +6,7 @@
   
 <div align= center>
   <a href="https://github.com/seu-usuário-aqui">
-  <img height="190em" src="https://github-readme-stats-ed1abreu.vercel.app/api/top-langs/?username=Ed1Abreu&layout=compact&langs_count=7&theme=react" alt="tabela Linguagens utilizadas"/>
+  <img height="190em" src="https://github-readme-stats-ed1abreu.vercel.app/api/top-langs/?username=Ed1Abreu&layout=compact&langs_count=7&theme=react" alt="tabela       Linguagens utilizadas"/>
   <img height="190em" src="https://github-readme-stats-ed1abreu.vercel.app/api?username=Ed1Abreu&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Tabela total de contribuições"/>
 </div> 
 
@@ -14,13 +14,14 @@
    <h2>Ferramentas | Linguagens</h2>
    <img align="center" alt="Ed-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
    <img align="center" alt="Ed-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
+   <img align="center" alt="Ed-PS" height="30" width="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg"/> 
    <img align="center" alt="Ed-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
    <img align="center" alt="Ed-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
    <img align="center" alt="Ed-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
    <img align="center" alt="Ed-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+   <img align="center" alt="Ed-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
    <img align="center" alt="Ed-BS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-   <img align="center" alt="Ed-BS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
- </div>
+</div>
   
   ##
   
