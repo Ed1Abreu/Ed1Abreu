@@ -7,7 +7,6 @@
     idade: 20,
     estudando: "Desenvolvimento Front-End",
     projetoAtual: "Dev-Books"
-    
   }
 ```
   
