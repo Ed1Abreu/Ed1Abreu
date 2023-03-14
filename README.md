@@ -1,8 +1,15 @@
-# Olá, eu sou Edvanderson Abreu!
+# Olá, seja bem-vindo!
 
-
-- 🖥️ Estudante de Ciência da Computação
-- 🔭 Focado no desenvolvimento Front-End
+```js
+  const SobreMim = {
+    objetivo: "Em busca da primeira experiência profissional",
+    nome: "Edvanderson Abreu",
+    idade: 20,
+    estudando: "Desenvolvimento Front-End",
+    projetoAtual: "Dev-Books"
+    
+  }
+```
   
 <div align= center>
   <a href="https://github.com/seu-usuário-aqui">
