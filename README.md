@@ -5,7 +5,7 @@
     objetivo: "Em busca da primeira experiência profissional",
     nome: "Edvanderson Abreu",
     idade: 20,
-    estudando: "Desenvolvimento Front-End",
+    estudando: "Framework React",
     projetoAtual: "Dev-Books"
   }
 ```
