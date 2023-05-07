@@ -1,7 +1,7 @@
 # Olá, seja bem-vindo!
 
 ```js
-  const sobreMim = {
+  const Eu = {
     objetivo: "Em busca da primeira experiência profissional",
     nome: "Edvanderson Abreu",
     idade: 20,
