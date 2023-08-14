@@ -5,7 +5,6 @@
     objetivo: "Em busca da primeira experiência profissional",
     nome: "Edvanderson Abreu",
     idade: 20,
-    estudando: "React"
   }
 ```
   
