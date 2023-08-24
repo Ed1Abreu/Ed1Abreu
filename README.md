@@ -10,8 +10,8 @@
   
 <div align= center>
   <a href="https://github.com/seu-usuário-aqui">
-  <img height="190em" src="https://github-readme-stats-ed1abreu.vercel.app/api/top-langs/?username=Ed1Abreu&layout=compact&langs_count=7&theme=react" alt="tabela       Linguagens utilizadas"/>
-  <img height="190em" src="https://github-readme-stats-ed1abreu.vercel.app/api?username=Ed1Abreu&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Tabela total de contribuições"/>
+  <img height="210em" src="https://github-readme-stats-ed1abreu.vercel.app/api/top-langs/?username=Ed1Abreu&layout=compact&langs_count=7&theme=react" alt="tabela       Linguagens utilizadas"/>
+  <img height="210em" src="https://github-readme-stats-ed1abreu.vercel.app/api?username=Ed1Abreu&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Tabela total de contribuições"/>
 </div> 
 
 <div style="display: inline_block"><br>
