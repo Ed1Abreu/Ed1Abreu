@@ -4,7 +4,7 @@
   const Eu = {
     objetivo: "Em busca da primeira experiência profissional",
     nome: "Edvanderson Abreu",
-    idade: 21,
+    idade: 22,
   }
 ```
   
