@@ -1,13 +1,5 @@
 # Olá, seja bem-vindo!
 
-```js
-  const Eu = {
-    objetivo: "Em busca da primeira experiência profissional",
-    nome: "Edvanderson Abreu",
-    idade: 22,
-  }
-```
-  
 <div align= center>
   <a href="https://github.com/seu-usuário-aqui">
   <img height="195em" src="https://github-readme-stats-ed1abreu.vercel.app/api/top-langs/?username=Ed1Abreu&layout=compact&langs_count=50&theme=react" alt="Linguagens utilizadas"/>
