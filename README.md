@@ -21,7 +21,6 @@
 🎯 Focado em Infraestrutura, Cloud Computing, DevOps e Redes  
 🐧 Explorando Linux, automação e ambientes escaláveis  
 📚 Atualmente Pós-Graduando em Datacenters e Computação em Nuvem 
-🛠️ Construindo projetos práticos para portfólio técnico  
 
 ---
 
