@@ -1,55 +1,58 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C2A8&center=true&width=435&lines=Seja+bem-vindo;Me+chamo+Edvanderson+Abreu;Infra+%7C+Cloud+%7C+DevOps+%7C+Redes" alt="Typing SVG" />
-</h1>
+<h1 align="center">Edvanderson Abreu ☁️ </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1200&color=00C2A8&center=true&vCenter=true&width=700&lines=Infraestrutura+%7C+Cloud+%7C+DevOps+%7C+Redes;Linux+%2B+Automação+%2B+Containers;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/edvanderson-silva-braga-de-abreu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:edvandersonsbabreu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🚀 Sobre Mim
+
+🎯 Focado em Infraestrutura, Cloud Computing, DevOps e Redes  
+🐧 Explorando Linux, automação e ambientes escaláveis  
+📚 Atualmente Pós-Graduando em Datacenters e Computação em Nuvem 
+🛠️ Construindo projetos práticos para portfólio técnico  
+
+---
+
+# ⚡ Stack Principal
 
 <div align="center">
-  <img height="195em" src="https://github-readme-stats-ed1abreu.vercel.app/api/top-langs/?username=Ed1Abreu&layout=compact&langs_count=50&theme=react" alt="Linguagens utilizadas"/>
-  <img height="195em" src="https://github-readme-stats-ed1abreu.vercel.app/api?username=Ed1Abreu&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Tabela total de contribuições"/>
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,gitlab&theme=dark" />
+
+### 🖥️ Infraestrutura & Monitoramento
+<img src="https://skillicons.dev/icons?i=linux,nginx,prometheus,grafana&theme=dark" />
+
+### 🔧 Automação & Scripting
+<img src="https://skillicons.dev/icons?i=bash,python,powershell,git&theme=dark" />
+
 </div>
 
 ---
 
-## ☁️ Cloud
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" />
-  </a>
-</p>
+# 🧠 Atualmente Estudando
 
-## 🐳 Containers & Orquestração
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
-  </a>
-</p>
-
-## 🔁 CI/CD & Versionamento
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,githubactions&theme=dark" />
-  </a>
-</p>
-
-## 📊 Monitoramento & Infra
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,nginx,prometheus,grafana&theme=dark" />
-  </a>
-</p>
-
-## 🖥️ Scripting & Automação
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,python,powershell&theme=dark" />
-  </a>
-</p>
+- Docker
+- Linux Server
+- Redes
+- Cloud Computing
 
 ---
 
-## 📬 Contatos
+<div align="center">
 
-<a href="https://www.linkedin.com/in/edvanderson-silva-braga-de-abreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:edvandersonsbabreu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Discord: ed__abreu-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif"/>
+</div>
